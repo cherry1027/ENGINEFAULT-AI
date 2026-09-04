@@ -4,8 +4,7 @@ EngineFault AI is an interactive research prototype on **AI-based parameter quan
 
 The application demonstrates an end-to-end methodology for analyzing historical engine experiments, estimating simulated engine parameters, detecting abnormal operating conditions, comparing AI models, explaining predictions, and verifying results against known reference values.
 
-> **Important:** This application uses synthetic demonstration data only. It does not contain actual Scania, TRATON, or proprietary engine data and must not be used for real engine diagnostics or safety-critical decisions.
-
+> **Important:** This application uses synthetic demonstration data only. 
 ## Key Features
 
 - Interactive engine-health dashboard
